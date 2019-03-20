@@ -4,7 +4,7 @@ The project makes use of a SQLite, Django, HTML and CSS. The system makes use of
 
 ## Getting Started
 
-*	**1** git clone https://github.com/definit3/Guest-Room-Booking.git
+*	**1** git clone https://github.com/sathvkesh/Guest-Room-Booking.git
 *	**2** python manage.py runserver
 *	**3** Open localhost on browser
 
@@ -18,3 +18,4 @@ The project makes use of a SQLite, Django, HTML and CSS. The system makes use of
 ## Authors
 
 * **Vivek Raj** - [definit3](https://github.com/definit3)
+* **Sathvikesh Damala** - [sathvikesh](https://github.com/sathvikesh)
